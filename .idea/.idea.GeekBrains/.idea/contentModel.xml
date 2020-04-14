@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Любовь\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Любовь\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_GeekBrains.732812945.00" t="ExcludeRecursive" />
+    <e p="E:\Проекты\Geekbrains\GeekbrainsForLesson\Geekbrains" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Builder" t="Include">
+          <e p="Builder.cs" t="Include" />
+          <e p="BuilderExtensions.cs" t="Include" />
+          <e p="BuilderTest.cs" t="Include" />
+        </e>
+        <e p="FactoryMethod" t="Include">
+          <e p="AssetPath.cs" t="Include" />
+          <e p="BigEnemy.cs" t="Include" />
+          <e p="BigEnemyFactory.cs" t="Include" />
+          <e p="CreatorEnemies.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyType.cs" t="Include" />
+          <e p="Hp.cs" t="Include" />
+          <e p="ICreatorEnemy.cs" t="Include" />
+          <e p="SmallEnemy.cs" t="Include" />
+          <e p="SmallEnemyFactory.cs" t="Include" />
+        </e>
+        <e p="ObjectPool" t="Include">
+          <e p="Ammunition.cs" t="Include" />
+          <e p="AmmunitionPool.cs" t="Include" />
+          <e p="AmmunitionType.cs" t="Include" />
+          <e p="AssetsPathAmmunition.cs" t="Include" />
+          <e p="AxisManager.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="CustomResources.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="NameManager.cs" t="Include" />
+        </e>
+        <e p="Prototype" t="Include">
+          <e p="DeepCopyExample.cs" t="Include" />
+          <e p="ObjectExtensions.cs" t="Include" />
+          <e p="PrototypeTest.cs" t="Include" />
+        </e>
+        <e p="Singleton" t="Include">
+          <e p="Manager.cs" t="Include" />
+          <e p="Services.cs" t="Include" />
+          <e p="SingletonMonoBehaviour.cs" t="Include" />
+          <e p="TestSingleton.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GeekBrains.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

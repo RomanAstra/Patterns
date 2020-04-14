@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64056aa8-af51-44b3-b06d-1b200cc0e625" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prototype/PrototypeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/EnemyType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Singleton/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/CreatorEnemies.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Singleton/TestSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prototype/ObjectExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/BigEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/Hp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prototype/DeepCopyExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/AssetPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/BigEnemyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/ICreatorEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/d1/da8ea1ff/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/fe/3c5e0b0b/EventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/456B736B-1BE4-4DEB-BFE8-4E69BABF635A/fe/3403b199/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/9d/f721f45a/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/a4/54707b02/Activator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Builder/Builder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/AssetsPathAmmunition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D815B7EF-AC42-4EEB-8E05-3965CCCB1F98/83/3e6f71d1/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/AxisManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/183CC947-3B1E-4A2E-9649-7B45BF64605B/8f/420ddce2/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B956647-017D-4DC1-B8D3-D25EEF012467/90/88b7b862/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Singleton/SingletonMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/CustomResources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D815B7EF-AC42-4EEB-8E05-3965CCCB1F98/dc/57089d92/Resources.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/NameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/AmmunitionPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/Ammunition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectPool/AmmunitionType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Builder/BuilderTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Builder/BuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Singleton/Services.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/SmallEnemyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FactoryMethod/SmallEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory Method/CreatorSphereEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory Method/CreatorCubeEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory Method/SphereEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory Method/CreatorEnemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory Method/EnemyBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/SmallEnamy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/EnemyType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/AssetPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/BigEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/SmallEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/cl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/ICreatorEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/SmallEnemyFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/CreatorEnemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Factory/BigEnemyFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/SingletonMonoBehaviur.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/NameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/AmmunitionType.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/PlayerInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/AxisManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/Ammunition.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/AmmunitionPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/CustomResources.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/AssetsPathAmmunition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prototype/ObjectExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/BuilderDesignPattern.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/IEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/IEnemyBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/Builder.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/AssetPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/BigEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/BigEnemyFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/EnemyType.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/Hp.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/ICreatorEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/SmallEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/SmallEnemyFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/FactoryMethod/CreatorEnemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/SingletonMonoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/Services.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/TestSingleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prototype/DeepCopyExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prototype/PrototypeTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectPool/Gun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/BuilderTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Builder/BuilderExtensions.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZynRiuI5Od87e8KzpeR54PSoNh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64056aa8-af51-44b3-b06d-1b200cc0e625" name="Default Changelist" comment="" />
+      <created>1585820206825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585820206825</updated>
+      <workItem from="1585820236305" duration="10847000" />
+      <workItem from="1585856796992" duration="235000" />
+      <workItem from="1586176923713" duration="12500000" />
+      <workItem from="1586438389933" duration="11035000" />
+      <workItem from="1586770936428" duration="17559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="737" y="263" key="RiderGenerateDialog" timestamp="1586782968553">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="737" y="263" key="RiderGenerateDialog/93.0.1827.1080@93.0.1827.1080" timestamp="1586782968553" />
+    <state x="669" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1586198930786">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="669" y="235" width="672" height="678" key="search.everywhere.popup/93.0.1827.1080@93.0.1827.1080" timestamp="1586198930786" />
+  </component>
+</project>
