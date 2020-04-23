@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Любовь\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Любовь\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Patterns.-1315279246.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Любовь\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Любовь\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Patterns.-1315279246.00" t="ExcludeRecursive" />
     <e p="E:\Проекты\MyProjects\Patterns" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="BehavioralPatterns" t="Include">
+          <e p="Chain Of Responsibility" t="Include">
+            <e p="ChainOfResponsibilityTest.cs" t="Include" />
+            <e p="GameHandler.cs" t="Include" />
+            <e p="IGameHandler.cs" t="Include" />
+            <e p="MoveToPosition.cs" t="Include" />
+            <e p="RotateAFewSeconds.cs" t="Include" />
+          </e>
+          <e p="Command" t="Include">
+            <e p="ExampleFirst" t="Include">
+              <e p="BaseUi.cs" t="Include" />
+              <e p="PanelOne.cs" t="Include" />
+              <e p="PanelTwo.cs" t="Include" />
+              <e p="StateUI.cs" t="Include" />
+              <e p="UserInterface.cs" t="Include" />
+            </e>
+            <e p="ExampleSecond" t="Include">
+              <e p="Command.cs" t="Include" />
+              <e p="DoNothing.cs" t="Include" />
+              <e p="InputHandler.cs" t="Include" />
+              <e p="MoveForward.cs" t="Include" />
+              <e p="MoveLeft.cs" t="Include" />
+              <e p="MoveReverse.cs" t="Include" />
+              <e p="MoveRight.cs" t="Include" />
+              <e p="ReplayCommand.cs" t="Include" />
+              <e p="UndoCommand.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Interpreter" t="Include">
+            <e p="InterpreterTest.cs" t="Include" />
+          </e>
+          <e p="Iterator" t="Include">
+            <e p="ExampleIndexer.cs" t="Include" />
+          </e>
+          <e p="Mediator" t="Include">
+            <e p="Controller.cs" t="Include" />
+            <e p="MediatorTest.cs" t="Include" />
+            <e p="Model.cs" t="Include" />
+            <e p="View.cs" t="Include" />
+          </e>
+          <e p="Memento" t="Include">
+            <e p="PointInTime.cs" t="Include" />
+            <e p="TimeBody.cs" t="Include" />
+          </e>
+        </e>
         <e p="CreationalPatterns" t="Include">
           <e p="Builder" t="Include">
             <e p="Builder.cs" t="Include" />
