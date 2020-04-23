@@ -39,6 +39,7 @@
           </e>
           <e p="Iterator" t="Include">
             <e p="ExampleIndexer.cs" t="Include" />
+            <e p="Students.cs" t="Include" />
           </e>
           <e p="Mediator" t="Include">
             <e p="Controller.cs" t="Include" />
