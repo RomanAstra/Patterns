@@ -51,8 +51,59 @@
             <e p="PointInTime.cs" t="Include" />
             <e p="TimeBody.cs" t="Include" />
           </e>
+          <e p="Null Object" t="Include">
+            <e p="NullObjectTest.cs" t="Include" />
+          </e>
+          <e p="Observer" t="Include">
+            <e p="ExampleFirst" t="Include">
+              <e p="Enemy.cs" t="Include" />
+              <e p="IHit.cs" t="Include" />
+              <e p="ListenerHitShowDamage.cs" t="Include" />
+              <e p="ObserverTest.cs" t="Include" />
+            </e>
+          </e>
+          <e p="State" t="Include">
+            <e p="ConcreteStateA.cs" t="Include" />
+            <e p="ConcreteStateB.cs" t="Include" />
+            <e p="Context.cs" t="Include" />
+            <e p="Info.txt" t="Include" />
+            <e p="State.cs" t="Include" />
+            <e p="StateTest.cs" t="Include" />
+          </e>
+          <e p="Strategy" t="Include">
+            <e p="BaseBehaviour.cs" t="Include" />
+            <e p="MoveBehaviour.cs" t="Include" />
+            <e p="RotateBehaviour.cs" t="Include" />
+            <e p="StrategyTest.cs" t="Include" />
+          </e>
+          <e p="TemplateMethod" t="Include">
+            <e p="Site.cs" t="Include" />
+            <e p="TemplateMethodTest.cs" t="Include" />
+            <e p="VK.cs" t="Include" />
+          </e>
+          <e p="Visitor" t="Include">
+            <e p="ExampleHit" t="Include">
+              <e p="ApplayDamage.cs" t="Include" />
+              <e p="ConsoleDisplay.cs" t="Include" />
+              <e p="Enemy.cs" t="Include" />
+              <e p="Environment.cs" t="Include" />
+              <e p="Hit.cs" t="Include" />
+              <e p="IDealingDamage.cs" t="Include" />
+              <e p="InfoCollision.cs" t="Include" />
+              <e p="Knight.cs" t="Include" />
+              <e p="VisitorTest.cs" t="Include" />
+            </e>
+          </e>
         </e>
         <e p="CreationalPatterns" t="Include">
+          <e p="Abstrac Factory" t="Include">
+            <e p="UiSystemPlatformsFactoryUsage.ConcreteFactories.cs" t="Include" />
+            <e p="UiSystemPlatformsFactoryUsage.ConcreteProducts.cs" t="Include" />
+            <e p="UiSystemPlatformsFactoryUsage.cs" t="Include" />
+            <e p="UiSystemPlatformsFactoryUsage.Factories.cs" t="Include" />
+            <e p="UiSystemPlatformsFactoryUsage.Products.cs" t="Include" />
+            <e p="UiSystemPlatformsFactoryUsage.UiFactorySystem.cs" t="Include" />
+          </e>
           <e p="Builder" t="Include">
             <e p="Builder.cs" t="Include" />
             <e p="BuilderExtensions.cs" t="Include" />
