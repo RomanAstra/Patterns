@@ -9,9 +9,7 @@ namespace Builder
         
         private void Start()
         {
-            // new ExampleApp().Run();
-
-            new GameObject().SetName("Enemy").AddRigidbody2D(1.0f).AddBoxCollider2D().AddRigidbody2D(1.0f).AddSprite(_sprite);
+            new GameObject().SetName("Enemy").AddBoxCollider2D().AddBoxCollider2D().AddRigidbody2D(5.0f).AddSprite(_sprite);
         }
     }
 }

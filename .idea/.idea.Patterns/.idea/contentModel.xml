@@ -153,12 +153,12 @@
             <e p="IFire.cs" t="Include" />
           </e>
           <e p="Bridge" t="Include">
-            <e p="Abstraction.cs" t="Include" />
             <e p="BridgeTest.cs" t="Include" />
-            <e p="ConcreteImplementorA.cs" t="Include" />
-            <e p="ConcreteImplementorB.cs" t="Include" />
-            <e p="Implementor.cs" t="Include" />
-            <e p="RefinedAbstraction.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="IAtake.cs" t="Include" />
+            <e p="IMove.cs" t="Include" />
+            <e p="MagicalAttack.cs" t="Include" />
+            <e p="TransformMove.cs" t="Include" />
           </e>
           <e p="Composite" t="Include">
             <e p="CompositeTest.cs" t="Include" />
@@ -177,6 +177,10 @@
           </e>
           <e p="Facade" t="Include">
             <e p="FacadeTest.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="GameService.cs" t="Include" />
+            <e p="Map.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
           </e>
           <e p="Flyweight" t="Include">
             <e p="FlyweightTest.cs" t="Include" />

@@ -11,6 +11,8 @@ namespace Composite
             Detachment attacks = new Detachment();
             attacks.AddUnit(attack);
             
+            
+            attack.Attack();
             attacks.Attack();
         }
     }
