@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using UnityEngine;
 
 
@@ -9,7 +10,7 @@ namespace Singleton
         #region Fields
         
         private static readonly Lazy<Services> _instance = 
-            new Lazy<Services>(() => new Services());
+            new Lazy<Services>(() => new Services(), LazyThreadSafetyMode.ExecutionAndPublication);
 
         #endregion
 

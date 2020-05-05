@@ -144,6 +144,26 @@
             <e p="TestSingleton.cs" t="Include" />
           </e>
         </e>
+        <e p="GamePatterns" t="Include">
+          <e p="ServiceLocator" t="Include">
+            <e p="ServiceLocator.cs" t="Include" />
+            <e p="ServiceLocatorMonoBehaviour.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Optimization" t="Include">
+          <e p="ExampleFirst.cs" t="Include" />
+          <e p="ExampleSecond.cs" t="Include" />
+          <e p="ExampleThree.cs" t="Include" />
+        </e>
+        <e p="Other" t="Include">
+          <e p="SwitchPattern" t="Include">
+            <e p="Move.cs" t="Include" />
+            <e p="SwitchPattern.cs" t="Include" />
+          </e>
+          <e p="TryParse" t="Include">
+            <e p="Example.cs" t="Include" />
+          </e>
+        </e>
         <e p="StructuralPatterns" t="Include">
           <e p="Adapter" t="Include">
             <e p="AdapterTest.cs" t="Include" />
