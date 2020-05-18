@@ -6,6 +6,7 @@
     <e p="E:\Проекты\MyProjects\Patterns" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Anti-Patterns" t="Include" />
         <e p="BehavioralPatterns" t="Include">
           <e p="Chain Of Responsibility" t="Include">
             <e p="ChainOfResponsibilityTest.cs" t="Include" />
@@ -145,10 +146,20 @@
           </e>
         </e>
         <e p="GamePatterns" t="Include">
+          <e p="Bytecode" t="Include" />
+          <e p="Component" t="Include" />
+          <e p="Data Locality" t="Include" />
+          <e p="Dirty Flag" t="Include" />
+          <e p="Double Buffering" t="Include" />
+          <e p="Event Queue" t="Include" />
+          <e p="Game Loop" t="Include" />
           <e p="ServiceLocator" t="Include">
             <e p="ServiceLocator.cs" t="Include" />
             <e p="ServiceLocatorMonoBehaviour.cs" t="Include" />
           </e>
+          <e p="Subclass Sandbox" t="Include" />
+          <e p="Type Object" t="Include" />
+          <e p="Update Method" t="Include" />
         </e>
         <e p="Optimization" t="Include">
           <e p="ExampleFirst.cs" t="Include" />
@@ -156,6 +167,7 @@
           <e p="ExampleThree.cs" t="Include" />
         </e>
         <e p="Other" t="Include">
+          <e p="Repository" t="Include" />
           <e p="SwitchPattern" t="Include">
             <e p="Move.cs" t="Include" />
             <e p="SwitchPattern.cs" t="Include" />
