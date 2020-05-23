@@ -44,7 +44,7 @@ namespace Memento
 
         private void Rewind ()
         {
-            if (_pointsInTime.Count > 0)
+            if (_pointsInTime.Count > 1)
             {
                 PointInTime pointInTime = _pointsInTime[0];
                 transform.position = pointInTime.Position;
@@ -53,6 +53,9 @@ namespace Memento
             } 
             else
             {
+                PointInTime pointInTime = _pointsInTime[0];
+                transform.position = pointInTime.Position;
+                transform.rotation = pointInTime.Rotation;
                 StopRewind();
             }
         }
@@ -64,7 +67,7 @@ namespace Memento
                 _pointsInTime.RemoveAt(_pointsInTime.Count - 1);
             }
 
-            _pointsInTime.Insert(0, new PointInTime(transform.position, transform.rotation));
+            _pointsInTime.Insert(0, new PointInTime(transform.position, transform.rotation, _rb.velocity, _rb.angularVelocity));
         }
 
         private void StartRewind ()
@@ -77,6 +80,8 @@ namespace Memento
         {
             _isRewinding = false;
             _rb.isKinematic = false;
+            _rb.velocity = _pointsInTime[0].Velocity;
+            _rb.angularVelocity = _pointsInTime[0].AngularVelocity;
         }
     }
 }

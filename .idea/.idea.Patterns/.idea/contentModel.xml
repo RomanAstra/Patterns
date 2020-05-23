@@ -6,6 +6,86 @@
     <e p="E:\Проекты\MyProjects\Patterns" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Anti-Patterns" t="Include">
+          <e p="Accidental complexity" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Analytic paralysis" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Bike-shed" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Blind faith" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Boat anchor" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Copy and Paste Programming" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="False mastery" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Fear of adding classes" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Fear of complexity" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="God object" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Golden hammer" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Hard code" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Lava flow" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Magic numbers and lines" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Management by numbers" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Poltergeist" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Premature optimization" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Programming by permutation" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Ravioli code" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Reinventing the square wheel" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Reinventing the wheel" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Soft code" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Spaghetti code" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="The technical interview" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Too many managers" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+          <e p="Vendor lock-in" t="Include">
+            <e p="Info.txt" t="Include" />
+          </e>
+        </e>
         <e p="BehavioralPatterns" t="Include">
           <e p="Chain Of Responsibility" t="Include">
             <e p="ChainOfResponsibilityTest.cs" t="Include" />
