@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using UnityEngine;
 
 namespace FactoryMethod
@@ -8,6 +9,7 @@ namespace FactoryMethod
         [SerializeField] private EnemyType _enemyType;
         [SerializeField] private float _hp;
         private ICreatorEnemy _creatorEnemy;
+        
         private void Start()
         {
             // Enemy.CreateSmallEnemy(new Hp());
@@ -23,10 +25,11 @@ namespace FactoryMethod
                     throw new ArgumentOutOfRangeException();
             }
 
-            var enemy = _creatorEnemy.Create(new Hp());
-            
+            var enemy = _creatorEnemy.Create(new Hp(_hp));
+
             // var enemy = Instantiate(Resources.Load<SmallEnemy>(AssetPath.Enemies[EnemyType.Small]));
             enemy.Hp.HP -= 5;
+            // Enemy.Factory.Create(new Hp());
         }
         
     }

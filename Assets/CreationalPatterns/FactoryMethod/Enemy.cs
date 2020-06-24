@@ -7,6 +7,7 @@ namespace FactoryMethod
     public abstract class Enemy : MonoBehaviour
     {
         public Hp Hp;
+        public static ICreatorEnemy Factory = new SmallEnemyFactory();
 
         public static SmallEnemy CreateSmallEnemy(Hp hp)
         {
