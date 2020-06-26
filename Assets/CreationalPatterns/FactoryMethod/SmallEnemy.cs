@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+
 namespace FactoryMethod
 {
     public sealed class SmallEnemy : Enemy

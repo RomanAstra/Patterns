@@ -19,6 +19,8 @@ namespace FactoryMethod
                     _creatorEnemy = new SmallEnemyFactory();
                     break;
                 case EnemyType.Big:
+                    _creatorEnemy = new BigEnemyFactory();
+                    break;
                 default:
                     throw new ArgumentOutOfRangeException();
             }
