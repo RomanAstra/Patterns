@@ -1,4 +1,7 @@
-﻿namespace Other.CastInterface
+﻿using System;
+using System.Collections.Generic;
+
+namespace Other.CastInterface
 {
     public interface IInterface
     {
@@ -34,6 +37,21 @@
         protected override void Do(Rotation action)
         {
             throw new System.NotImplementedException();
+        }
+    }
+
+    public sealed class Executor
+    {
+        private readonly Dictionary<Type, IInterface> _actionExecutors = new Dictionary<Type, IInterface>();
+
+        public void AddActionExecutor<T>(DoAction<T> frameActionExecutor) where T : class, IAction
+        {
+            _actionExecutors.Add(typeof(T), frameActionExecutor);
+        }
+
+        private void ExecuteSpecific(IAction action)
+        {
+            _actionExecutors[action.GetType()].Do(action);
         }
     }
 }
