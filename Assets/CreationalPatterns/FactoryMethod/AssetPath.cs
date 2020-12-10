@@ -6,7 +6,8 @@ namespace FactoryMethod
     {
         public static readonly Dictionary<EnemyType, string> Enemies = new Dictionary<EnemyType, string>
         {
-            {EnemyType.Small, "Prefabs/Enemies/Prefabs_Enemies_SmallEnemy"}
+            {EnemyType.Small, "Prefabs/Enemies/Prefabs_Enemies_SmallEnemy"},
+            {EnemyType.Big, "Prefabs/Enemies/Prefabs_Enemies_BigEnemy"}
         };
     }
 }
