@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 
-
-namespace Observer
+namespace BehavioralPatterns.Observer.ExampleFirst
 {
     public sealed class ObserverTest : MonoBehaviour
     {
@@ -24,7 +23,7 @@ namespace Observer
                 if (Physics.Raycast(_mainCamera.ScreenPointToRay(Input.mousePosition),
                     out var hit, _dedicateDistance))
                 {
-                    if (hit.collider.TryGetComponent<Enemy>(out var enemy))
+                    if (hit.collider.TryGetComponent<IHit>(out var enemy))
                     {
                         enemy.Hit(Damage);
                     }

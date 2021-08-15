@@ -1,8 +1,8 @@
 ﻿namespace Bridge
 {
-    public sealed class MagicalAttack : IAtake
+    public sealed class MagicalAttack : IAttake
     {
-        public void Atake()
+        public void Attake()
         {
             
         }

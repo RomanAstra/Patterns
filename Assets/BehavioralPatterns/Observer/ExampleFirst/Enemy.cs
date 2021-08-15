@@ -1,8 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-
-namespace Observer
+namespace BehavioralPatterns.Observer.ExampleFirst
 {
     public sealed class Enemy : MonoBehaviour, IHit
     {

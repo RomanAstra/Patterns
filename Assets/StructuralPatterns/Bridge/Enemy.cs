@@ -5,19 +5,19 @@ namespace Bridge
 {
     public sealed class Enemy : MonoBehaviour
     {
-        private IAtake _atake;
+        private IAttake _attake;
         private IMove _move;
         
         private void Start()
         {
-            _atake = new MagicalAttack();
+            _attake = new MagicalAttack();
             _move = new TransformMove();
         }
 
 
         public void Atake()
         {
-            _atake.Atake();
+            _attake.Attake();
         }
         
         public void Move()

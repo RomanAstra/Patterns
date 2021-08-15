@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Observer
+namespace BehavioralPatterns.Observer.ExampleFirst
 {
     public interface IHit
     {
